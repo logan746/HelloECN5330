@@ -1,3 +1,14 @@
 # HelloECN5330
 
-Hello class!! This program might be the death of me!!
+Hello class!! 
+
+_         _
+    /
+  /___
+____________
+\ _|_|_|_ /
+ \_|_|_|_/
+ 
+ 
+ 
+ 
